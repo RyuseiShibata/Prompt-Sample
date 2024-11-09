@@ -115,12 +115,16 @@ I think you look like a famous actor.
 #### RAG参考資料
 ▼①事務決裁規則（別表１から決裁責任者を示してほしい）
 https://www.city.nagaoka.niigata.jp/shisei/cate03/jyourei/reiki/reiki_honbun/e403RG00000061.html
+
 ▼②財務規則（この規則に沿って、あらゆる質問に答えてほしい）
 https://www.city.nagaoka.niigata.jp/shisei/cate03/jyourei/reiki/reiki_honbun/e403RG00000179.html
+
 ▼③指定避難所運営マニュアル（ページ最下部／これに基づいて、回答を示すボットを作りたい）
 https://www.bousai.city.nagaoka.niigata.jp/emergency-evacuation-site/index.html
+
 ▼④指導監督（このマニュアル等に沿って、質問に答えてほしい）
 https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/service/index_00001.html
+
 ▼⑤市議会会議録（過去の答弁を踏まえた答弁案をつくってほしい）
 https://www09.gijiroku.com/nagaoka/
 
